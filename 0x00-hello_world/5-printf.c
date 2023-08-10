@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - Entry point
+ * Main - with proper grammar,
  * outcome is art
  * Return : always (0) success
  */
