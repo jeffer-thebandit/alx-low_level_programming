@@ -3,7 +3,7 @@
 
 /**
  * main - function that checks for digit(0 through 9)
- * @c the digit to be checked
+ * @c input
  * Return: 1 if its a digit otherwise return 0
  */
 int _isdigit(int c)
