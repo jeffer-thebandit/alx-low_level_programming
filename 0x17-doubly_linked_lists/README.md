@@ -1,1 +1,1 @@
-This is more double linked lists c programming language
+This is c programme about doublely linked lists in c programming language
